@@ -1,2 +1,2 @@
 # AppDev
-Here u can find apps made using flutter and dart
+Here you can find apps made using flutter and dart.
